@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 
 	int a, b, kali, plus;
-	cout<<"Hello World"<<endl;
+	cout<<"Program Kalkulator Sederhana"<<endl;
 
 	cout<<"I am Arzafr"<<endl;
 
