@@ -9,12 +9,12 @@ int main(){
 
 	cout<<"I am Arzafr"<<endl;
 
-	cout <<"MAsukan 2 angka untuk di tmbahkan(pisahkan Dengan spasi) : "<<endl;
+	cout <<"MAsukan 2 angka untuk di kali kan(pisahkan Dengan spasi) : "<<endl;
 	cin >> a >> b;
 
-	plus = a + b;
+	plus = a * b;
 
-	cout << a << " + "<< b <<" = "<< plus << endl;
+	cout << a << " x "<< b <<" = "<< plus << endl;
 
 	cin.get();
 	cin.get();
