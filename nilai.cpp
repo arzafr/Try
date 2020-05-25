@@ -24,11 +24,14 @@ int main(){
         } else {
             indeks = 'E';
         }
+
+        cout << "Dalam matkul "<< matkul <<" anda mendapat nilai "<< indeks << endl;
+        
     } else {
         cout << "input nilai tidak valid"<<endl;
     }
 
-    cout << "Dalam matkul "<< matkul <<" anda mendapat nilai "<< indeks << endl;
+    
     
     cin.get();
     cin.get();
