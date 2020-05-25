@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+<<<<<<< HEAD
+        "iostream": "cpp",
+        "ostream": "cpp"
+>>>>>>> psikolog
     }
 }
