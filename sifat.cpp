@@ -5,6 +5,8 @@ using namespace std;
 int main (){
     string nama, start, q1, q2, q3;
 
+    cout << "aplikasi cek kepribadian" <<endl;
+    cout << "========================" << endl;
     cout << "Siapa nama kamu ? :" <<endl;
     cin >> nama;
 
