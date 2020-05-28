@@ -7,7 +7,7 @@ int main(){
     string matkul;
     char indeks;
 
-    cout << "Aplikasi cek nilai"<<endl;
+    cout << "Contoh Aplikasi Cek Nilai"<<endl;
     cout <<"=================="<<endl;
     cout << "Masukan Nama Mata Kuliah : ";
     cin >> matkul;
